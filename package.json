@@ -1,0 +1,24 @@
+{
+  "name": "cubix-clean-code-week-2",
+  "version": "1.0.0",
+  "description": "Practicing mocking and error handling via jest and typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest --watchAll"
+  },
+  "keywords": [
+    "typescript",
+    "jest",
+    "clean-code",
+    "unit-testing"
+  ],
+  "author": "Janos Perge",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^29.5.11",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.1",
+    "typescript": "^5.3.3",
+    "jest-mock-extended": "^3.0.5"
+  }
+}

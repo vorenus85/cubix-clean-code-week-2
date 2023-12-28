@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CurrencyConverter test:: Happy scenarios should generate conversion report 1`] = `
+"Conversion Report:
+200
+200
+200
+200
+200"
+`;
+
+exports[`CurrencyConverter test:: should generate conversion report 1`] = `
+"Conversion Report:
+200
+200
+200
+200
+200"
+`;
